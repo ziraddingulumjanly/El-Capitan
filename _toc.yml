@@ -1,0 +1,8 @@
+format: jb-book
+root: intro
+
+parts:
+  - caption: sckitlearn
+    chapters:
+      - file: 00_traintestsplit
+      
