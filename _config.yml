@@ -1,4 +1,4 @@
-title: Data Science and Machine Learning Projects
+title: El Capitan
 author: Ziraddin Gulumjanli
 copyright: "2026"
 logo: cover.png
@@ -19,9 +19,14 @@ html:
 launch_buttons:
   notebook_interface: "jupyterlab"
 
+# Add the configuration below:
 sphinx:
   config:
     html_show_copyright: true
+    html_theme_options:
+      extra_navbar: ""
+      # This explicitly activates the text title below your cover image
+      logo_title: "El Capitan" 
 
 exclude_patterns:
   - README.md
