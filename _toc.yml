@@ -6,4 +6,9 @@ parts:
     chapters:
       - file: HollowFlake/00_traintestsplit
       - file: HollowFlake/01_preprocessing
+
+  - caption: EndureEdge
+    chapters:
+      - file: EndureEdge/hyptuning
+  
   
