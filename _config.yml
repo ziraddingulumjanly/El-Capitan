@@ -14,19 +14,24 @@ html:
   use_repository_button: true
   use_issues_button: false
   use_edit_page_button: false
-  favicon: ""
 
 launch_buttons:
   notebook_interface: "jupyterlab"
 
-# Add the configuration below:
 sphinx:
   config:
     html_show_copyright: true
     html_theme_options:
-      extra_navbar: ""
-      # This explicitly activates the text title below your cover image
-      logo_title: "El Capitan" 
+      logo:
+        text: "El Capitan"
+
+      extra_footer: |
+        <p>
+          <br>
+          <a href="https://github.com/ziraddingulumjanly">GitHub Repo</a>
+          |
+          <a href="https://ziraddingulumjanly.github.io/MLBook/intro.html">Machine Learning Projects</a>
+        </p>
 
 exclude_patterns:
   - README.md
