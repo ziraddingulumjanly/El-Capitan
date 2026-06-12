@@ -1,0 +1,23 @@
+$$ \hat{y} = a x + b $$
+
+----------------------------------------------------------------
+Info on the side part
+
+```{margin}
+Algorithms achieved super-human performance in the game of chess long before this, in the year TODO with the famous play of Kasparov against Deep Blue.
+Chess has much fewer possible moves and games are much shorter sequences of actions than in Go or StarCraft, which makes it much easier to devise algorithms to play chess.
+
+```
+----------------------------------------------------------------
+
+```{admonition} Mathematical Background
+Use dollar sign for math equations $p(x, y)$ 
+
+----------------------------------------------------------------
+References should be added to the bibliography.bib and can be called via:
+
+justice {cite}`berk2018fairness` 
+
+----------------------------------------------------------------
+use `` for pink color
+use ** for italic
