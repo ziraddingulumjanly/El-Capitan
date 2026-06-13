@@ -4,11 +4,36 @@ root: intro
 parts:
   - caption: HollowFlake
     chapters:
-      - file: HollowFlake/00_traintestsplit
-      - file: HollowFlake/01_preprocessing
+      - file: 01_HollowFlake/00_traintestsplit
+      - file: 01_HollowFlake/01_preprocessing
+      - file: 01_HollowFlake/03_columntransformer
+
+  - caption: MonsterOffwidth
+    chapters:
+      - file: 02_MonsterOffwidth/00_crossvalidation
+      - file: 02_MonsterOffwidth/gridsearch
+      - file: 02_MonsterOffwidth/hyperparametertuning
+      - file: 02_MonsterOffwidth/randomizedsearch
+
+  - caption: MainCrux
+    chapters:
+      - file: 03_MainCrux/classification_metrics
+      - file: 03_MainCrux/learning_curves
+      - file: 03_MainCrux/model_selection
+      - file: 03_MainCrux/regression_metrics
 
   - caption: EndureEdge
     chapters:
-      - file: EndureEdge/hyptuning
-  
-  
+      - file: 04_EndureEdge/classification
+      - file: 04_EndureEdge/clustering
+      - file: 04_EndureEdge/dimensional_reduction
+      - file: 04_EndureEdge/imbalance_techniques
+      - file: 04_EndureEdge/regression
+
+  - caption: Summit
+    chapters:
+      - file: 05_Summit/ci-cd
+      - file: 05_Summit/deployment
+      - file: 05_Summit/docker
+      - file: 05_Summit/fastAPI
+      - file: 05_Summit/robust_code
