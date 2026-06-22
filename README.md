@@ -1,8 +1,15 @@
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
-![TeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
-![Repository Size](https://img.shields.io/github/repo-size/ziraddingulumjanly/El-Capitan)
-![Last Commit](https://img.shields.io/github/last-commit/ziraddingulumjanly/El-Capitan)
-![Open Issues](https://img.shields.io/github/issues/ziraddingulumjanly/El-Capitan)
-![License](https://img.shields.io/github/license/ziraddingulumjanly/El-Capitan)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![Last Commit](https://img.shields.io/github/last-commit/ziraddingulumjanly/El-Capitan?style=for-the-badge)
+![Repository Size](https://img.shields.io/github/repo-size/ziraddingulumjanly/El-Capitan?style=for-the-badge)
+![Open Issues](https://img.shields.io/github/issues/ziraddingulumjanly/El-Capitan?style=for-the-badge)
+![License](https://img.shields.io/github/license/ziraddingulumjanly/El-Capitan?style=for-the-badge)
 ---
-Welcome to the **El-Capitan** project! This repository contains data science notebooks and core documentation configurations built using Jupyter Notebooks and TeX.
+Welcome to the **El-Capitan** project! A collection of data science, machine learning, statistics, and mathematical foundations notebooks with implementation-focused examples.
