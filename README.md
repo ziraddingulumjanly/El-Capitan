@@ -13,3 +13,5 @@
 ![License](https://img.shields.io/github/license/ziraddingulumjanly/El-Capitan?style=for-the-badge)
 ---
 Welcome to El-Capitan — a structured collection of notebooks covering mathematics, statistics, machine learning, and data science from first principles to practical implementation.
+
+[See live website](https://ziraddingulumjanly.github.io/El-Capitan/intro.html)
