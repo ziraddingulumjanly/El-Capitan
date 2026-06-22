@@ -7,7 +7,6 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
 ![Last Commit](https://img.shields.io/github/last-commit/ziraddingulumjanly/El-Capitan?style=for-the-badge)
 ![Repository Size](https://img.shields.io/github/repo-size/ziraddingulumjanly/El-Capitan?style=for-the-badge)
 ![Open Issues](https://img.shields.io/github/issues/ziraddingulumjanly/El-Capitan?style=for-the-badge)
